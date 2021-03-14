@@ -1,4 +1,0 @@
-this is my git exercise 1
-commit 2 to go
-to go for commit 2
-its changed now
